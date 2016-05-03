@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroBluetooth</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="text_bluetooth_off">Monitor Domotica</string>
+    <string name="text_bluetooth_on">Monitor Domotica</string>
+
+    <string name="text_enable">Enable</string>
+    <string name="text_disable">Disable</string>
+
+    <string name="text_view_paired">Dispositivos Pareados</string>
+    <string name="text_scan_devices">Escanear Dispositivos</string>
+    <string name="text_stop_scan">Escanear Dispositivos</string>
+
+    <string name="text_list_paired_devices">Dispositivos Pareados</string>
+    <string name="text_list_devices">Lista de dispositivos</string>
+
+    <string name="text_pair">Parear</string>
+
+</resources>
